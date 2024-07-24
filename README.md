@@ -53,7 +53,7 @@
 
 The key points are:
 
-Direct handling of "class1" in Class1
-Use of ClassAdapter for "class2" and "class3"
-Different method calls (method2 for Class2, method3 for Class3) based on the input
-Error handling for unrecognized inputs
+- Direct handling of "class1" in Class1
+- Use of ClassAdapter for "class2" and "class3"
+- Different method calls (method2 for Class2, method3 for Class3) based on the input
+- Error handling for unrecognized inputs
